@@ -13,6 +13,12 @@ body {
     overflow: hidden;
 }
 
+/* Global / Utility Classes */
+
+.flex {
+    display: flex;
+}
+
 .wrapper {
     padding-inline: 0.5em;
     height: 100%;
@@ -27,6 +33,7 @@ i {
     color: white;
     font-size: 1.325rem;
 }
+
 /* Header */
 
 .header__nav {
