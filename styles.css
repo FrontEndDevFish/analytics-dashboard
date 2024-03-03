@@ -168,6 +168,9 @@ i {
         height: 2.5rem;
     }
 }
+    main {
+    margin-left: 7em;
+}
 }
 
 /* Responsive smaller screens */
