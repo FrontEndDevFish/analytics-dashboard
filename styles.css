@@ -74,7 +74,7 @@ i {
 @media only screen and (min-width: 725px) {
 
     .header__nav {
-        margin-left: 6rem;
+        margin-left: 7rem;
     }
     .sidebar {
         flex-direction: column;
